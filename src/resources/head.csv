@@ -1,31 +1,30 @@
-Eager Wudwud a,HR,,,,66,2,2,2,2,2,Mushroomancer,3,Earplugs,2,Survival Expert,2,Fortifying Pelt,,,,,,,,,,,
-Ceremonial Helm a,HR,2,1,,36,2,2,2,-3,2,Divine Blessing,1,Latent Power,1,,,,Lumenhymn Prayer,Zenny,2500,Novacrystal,1,Lumenhymn Ticket,1,,,,
-Orion Cap a,HR,3,3,1,66,1,1,1,1,1,Flinch Free,2,,,,,,,Zenny,8000,Orion Ticket,1,Hunter Symbol III,1,Blangonga Pelt+,6,Beast Gem,1
-Mirror Visor a,HR,3,,,66,0,0,2,4,4,Evade Window,4,,,,,,,Zenny,8000,Lumenhymn Catalogue,2,Hunter Symbol III,2,Rathalos Scale+,5,Rathalos Ruby,1
-Analytic E.Y.E. a,HR,2,2,,66,4,2,4,0,0,Weakness Exploit,2,,,,,,,Zenny,8000,Lumenhymn Catalogue,2,Hunter Symbol III,2,Guardian Rathalos Scale+,5,Guardian Rathalos Ruby,1
-Amstrigian a,HR,,,,36,-2,2,1,-2,3,Wide Range,2,Evade Extender,1,,,,,Zenny,2500,Monster Keenbone,5,Quematrice Crest+,3,Amstrigian Ticket,3,,
-Skull Mask a,HR,2,,,66,-3,-1,-1,-1,2,Earplugs,3,Intimidator,3,,,,,Zenny,8000,Skull Ticket,3,Gypceros Head,2,Frenzy Shard,5,Nercylla Carapace,5
-Afi Crown a,HR,2,,,36,2,-3,2,2,2,Bombardier,2,Fire Resistance,2,,,Festive Spirit,Flamefete Prayer,Zenny,2500,Flamefete Ticket,1,Firestone,1,,,,
+Afi Crown a,HR,2,,,36,2,-3,2,2,2,Bombardier,2,Fire Resistance,2,,,Festival Spirit,Flamefete Prayer,Zenny,2500,Flamefete Ticket,1,Firestone,1,,,,
 Ajarakan Helm a,HR,1,,,48,3,-3,1,-2,0,Resentment,2,Bombardier,1,,,Fortifying Pelt,,Zenny,5000,Ajarakan Certificate S,1,Ajarakan Carapace,5,Ajarakan Ridge+,4,Charred Oilbone,2
 Ajarakan Helm B,HR,2,1,,48,3,-3,1,-2,0,Resentment,1,Bombardier,1,,,Alluring Pelt,,Zenny,5000,Ajarakan Certificate S,1,Ajarakan Carapace,5,Ajarakan Ridge+,4,Charred Oilbone,2
 Alloy Helm a,HR,1,1,,32,-2,1,-2,-2,1,Quick Sheathe,1,,,,,,,Zenny,2500,Carbalite Ore,1,Dragonite Ore,3,,,,
+Amstrigian a,HR,,,,36,-2,2,1,-2,3,Wide Range,2,Evade Extender,1,,,Buttery Leathercraft,Zenny,2500,Monster Keenbone,5,Quematrice Crest+,3,Amstrigian Ticket,3,,
+Analytic E.Y.E a,HR,2,2,,66,4,2,4,0,0,Weakness Exploit,2,,,,,,,Zenny,8000,Lumenhymn Catalog,2,Hunter Symbol III,2,Guardian Rathalos Scale+,5,Guardian Rathalos Ruby,1
 Arkvulcan Helm a,HR,,,,66,2,0,-1,0,-3,Elemental Absorption,2,Convert Element,1,,,Fortifying Pelt,Arkveld's Hunger,Zenny,10000,Arkveld Scale+,5,Arkveld Armorplate,3,White Arkveld Pelt,2,Arkveld Horn+,3
 Arkvulcan Helm B,HR,3,2,1,66,2,0,-1,0,-3,Convert Element,1,,,,,Alluring Pelt,Arkveld's Hunger,Zenny,10000,Arkveld Scale+,5,Arkveld Armorplate,3,White Arkveld Pelt,2,Arkveld Horn+,3
+Arkvulcan Helm Y,HR,2,1,,68,2,0,-1,0,-3,Weakness Exploit,3,,,,,Lord's Soul,Arkveld's Hunger,Zenny,12000,Arkveld Certificate Y,1,Arkveld Scale+,6,Arkveld Horn+,3,Arkveld Gem,1
 Artian Helm a,HR,2,1,,44,1,-2,-2,2,3,Flayer,1,Earplugs,1,,,Guardian's Protection,,Zenny,4000,Gracium,5,Frenzy Crystal,1,Novacrystal,1,,
+Aviator Shades a,HR,1,1,1,66,2,2,2,2,2,Windproof,3,Tool Specialist,2,,,Zenny,8000,Gypceros Head,2,Novacrystal,1,Hunter Symbol III,2,Dreamspell Catalog,2,,
+Azure Age Hair a,HR,1,1,1,66,2,4,0,0,3,Latent Power,1,Constitution,2,Adrenaline Rush,1,Leviathan's Fury,Fortifying Pelt,Zenny,8000,Rey Day Scale+,3,Lagiacrus Hide+,3,Lagiacrus Sapphire,1,Azure Stargem,1
 Azuz Headdress a,HR,2,,,44,4,1,1,1,1,Maximum Might,2,,,,,Imparted Wisdom,,Zenny,4000,Azuz Tanned Leather,1,Charred Oilbone,2,,,,
 Balahara Helm a,HR,1,,,38,-1,2,-3,1,1,Evade Window,1,Geologist,1,,,Scaling Prowess,,Zenny,3500,Balahara Certificate S,1,Balahara Carapace,2,Balahara Skull+,1,,
 Balahara Helm B,HR,2,,,38,-1,2,-3,1,1,Evade Window,1,,,,,Scale Layering,,Zenny,3500,Balahara Certificate S,1,Balahara Carapace,2,Balahara Skull,+1,,
-Bale Burgeonet a,HR,1,1,,68,2,0,-2,0,3,Resentment,2,Maximum Might,2,,,,Omega Resonance,Zenny,12000,Omega Data 1.0,1,Omega Screw,6,Omega Spring,3,Omega Pedal,3
+Bale Burgeonet a,HR,1,1,,68,2,0,-2,0,3,Resentment,2,Maximum Might,2,,,Soul of the Dark Knight,Omega Resonance,Zenny,12000,Omega Data 1.0,1,Omega Screw,6,Omega Spring,3,Omega Pedal,3
 Barina Headgear a,HR,,,,36,-3,3,0,0,3,Foray,1,Paralysis Resistance,1,,,Neopteron Alert,,Zenny,3000,Lala Barina Certificate S,1,Lala Barina Carapace,3,Lala Barina Claw+,,,
 Barina Headgear B,HR,1,,,36,-3,3,0,0,3,Foray,1,,,,,Neopteron Camouflage,,Zenny,3000,Lala Barina Certificate S,1,Lala Barina Carapace,3,Lala Barina Claw+,2,,
 Battle Helm a,HR,2,,,44,2,-1,-1,0,0,Stamina Surge,2,,,,,Imparted Wisdom,,Zenny,4000,Scarred Scale,1,Blango Pelt+,1,Frozen Icebone,1,,
 Blango Helm a,HR,1,1,,48,-4,1,0,4,0,Wide-Range,2,Counterstrike,1,,,Fortifying Pelt,Blangonga's Spirit,Zenny,5000,Blangonga Pelt+,3,Blangonga Fang+,4,Blangonga Tail,2,Colossal Bone,2
 Blango Helm B,HR,2,1,1,48,-4,1,0,4,0,Wide-Range,2,,,,,Alluring Pelt,Blangonga's Spirit,Zenny,5000,Blangonga Pelt+,3,Blangonga Fang+,4,Blangonga Tail,2,Colossal Bone,2
-Blossom Headgear a,HR,2,1,,36,1,1,4,1,1,Paralysis Resistance,2,,,,,Festive Spirit,Blossomdance Prayer,Zenny,12500,Blossom Ticket,1,Bulaqchi Carapace,4,Lala Barina Mucus+,3,Monster Broth,1
+Blossom Headgear a,HR,2,1,,36,1,1,4,1,1,Paralysis Resistance,2,,,,,Festival Spirit,Blossomdance Prayer,Zenny,12500,Blossom Ticket,1,Bulaqchi Carapace,4,Lala Barina Mucus+,3,Monster Broth,1
 Bone Helm a,HR,1,,,32,2,0,2,0,2,Stun Resistance,1,Speed Eating,1,,,,,Zenny,2500,Quality Bone,1,Frozen Icebone,1,,,,
 Bulaqchi Specs a,HR,,,,32,-4,1,1,-2,4,Weakness Exploit,1,Entomologist,1,,,Neopteron Alert,,Zenny,2500,Bulaqchi Carapace,5,,,,,,
 Bulaqchi Specs B,HR,2,1,,32,-4,1,1,-2,4,Entomologist,1,,,,,Neopteron Camouflage,,Zenny,2500,Bulaqchi Carapace,5,,,,,,
 Butterfly Vertex a,HR,2,,,44,-1,-1,2,0,2,Constitution,1,Evade Window,1,Evade Extender,1,Imparted Wisdom,,Zenny,4000,Great Hornfly,1,Vespoid Innerwing,1,Monster Broth,1,,
+Ceremonial Helm a,HR,2,1,,36,2,2,2,-3,2,Divine Blessing,1,Latent Power,1,,,Lumenhymn Prayer,Festival Spirit,Zenny,2500,Novacrystal,1,Lumenhymn Ticket,1,,,,
 Chainmail Headgear a,HR,1,1,,26,0,2,0,0,0,Geologist,1,,,,,,,Zenny,2500,Guardian Scale,1,Icium,1,,,,
 Chatacabra Helm a,HR,1,,,36,1,2,-3,-1,1,Wide-Range,1,Speed Eating,1,,,Flexible Leathercraft,,Zenny,3000,Chatacabra Scale+,2,Chatacabra Jaw+,1,Stoutbone,1,,
 Chatacabra Helm B,HR,2,,,36,1,2,-3,-1,1,Speed Eating,1,,,,,Buttery Leathercraft,,Zenny,3000,Chatacabra Scale+,2,Chatacabra Jaw+,1,Stoutbone,1,,
