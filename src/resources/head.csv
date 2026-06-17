@@ -54,3 +54,13 @@ Eager Wudwud a,HR,,,,66,2,2,2,2,2,Mushroomancer,3,Earplugs,2,Survival Expert,2,,
 Earring of Dedication a,HR,2,,,48,0,0,0,0,0,Wide-Range,4,,,,,,Glory's Favor,Zenny,4000,Fucium Ore,3,Gracium,3,Pinnacle Coin,3,Rathian Coin,5
 Expedition Headgear a,HR,2,,,40,1,1,1,1,1,Blight Resistance,1,Coalescence,1,,,,,Zenny,3500,,,,,,,,
 Faux Felyne a,HR,,,,36,2,2,2,2,2,Palico Rally,5,,,,,,,Zenny,2500,Felyne Ticket,3,Quematrice Hide+,6,Quematrice Igniter+,4,Monster Keenbone,5
+G Arkveld Helm a,HR,1,1,,66,2,0,-1,0,-4,Partbreaker,2,Flayer,1,,,Guardian Arkveld's Vitality,Guardian's Pulse,Zenny,10000,Hunter Symbol III,1,Arkveld Scale+,6,Guardian Pelt+,5,Uth Duna Watergem,1
+G Arkveld Helm B,HR,3,1,,66,2,0,-1,0,-4,Partbreaker,1,Flayer,1,,,Guardian Arkveld's Vitality,Guardian's Protection,Zenny,10000,Hunter Symbol III,1,Arkveld Scale+,6,Guardian Pelt+,5,Uth Duna Watergem,1
+G Doshaguma Helm a,HR,3,1,,48,-3,2,-1,-2,2,Hunger Resistance,2,Heroics,1,,,Doshaguma's Might,Guardian's Pulse,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
+G Doshaguma Helm B, HR,2,2,1,48,-3,2,-1,-2,2,Heroics,1,,,,,Doshaguma's Might,Guardian's Protection,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
+G Ebony Helm a,HR,,,,48,-2,-3,-2,-2,4,Burst,2,Earplugs,1,,,Ebony Odogaron's Power,Guardian's Pulse,Zenny,5000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,6,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3
+G Ebony Helm B,HR,2,,,48,-2,-3,-2,-2,4,Burst,2,,,,,Ebony Odogaron's Power,Guardian's Protectionm,Zenny,5000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,6,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3
+G Fulgur Helm a,HR,,,,48,-1,-1,2,-3,-2,Agitator,2,Coalescence,1,,,Fulgur Anjanath's Will,Guardian's Pulse,Zenny,5000,Guardian Fulgur Certificate S,1,Guardian Fulgur Pelt+,5,Guardian Fulgur Nosebone+,4,Thunder Sack,3
+G Fulgur Helm B,HR,2,,,48,-1,-1,2,-3,-2,Agitator,2,,,,,Fulgur Anjanath's Will,Guardian's Protection,Zenny,5000,Guardian Fulgur Certificate S,1,Guardian Fulgur Pelt+,5,Guardian Fulgur Nosebone+,4,Thunder Sac,3
+G Rathalos Helm a,HR,1,1,,48,3,1,-2,1,-5,Survival Expert,2,Weakness Exploit,1,,,Rathalos's Flare,Guardian's Pulse,Zenny,5000,G Rathalos Certificate S,1,Guardian Rathalos Carapace,5,Guardian Rathalos Wing,2,Nova Crystal,1
+G Rathalos Helm B,HR,2,2,,48,3,1,-2,1,-5,Weakness Exploit,1,,,,,Rathalos's Flare,Guardian's Protection,Zenny,5000,G Rathalos Certificate S,1,Guardian Rathalos Carapace,5,Guardian Rathalos Wing,2,Novacrystal,1
