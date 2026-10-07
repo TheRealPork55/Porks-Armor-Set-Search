@@ -2,13 +2,13 @@ Afi Crown a,HR,2,,,36,2,-3,2,2,2,Bombardier,2,Fire Resistance,2,,,Festival Spiri
 Ajarakan Helm a,HR,1,,,48,3,-3,1,-2,0,Resentment,2,Bombardier,1,,,Fortifying Pelt,,Zenny,5000,Ajarakan Certificate S,1,Ajarakan Carapace,5,Ajarakan Ridge+,4,Charred Oilbone,2
 Ajarakan Helm B,HR,2,1,,48,3,-3,1,-2,0,Resentment,1,Bombardier,1,,,Alluring Pelt,,Zenny,5000,Ajarakan Certificate S,1,Ajarakan Carapace,5,Ajarakan Ridge+,4,Charred Oilbone,2
 Alloy Helm a,HR,1,1,,32,-2,1,-2,-2,1,Quick Sheathe,1,,,,,,,Zenny,2500,Carbalite Ore,1,Dragonite Ore,3,,,,
-Amstrigian a,HR,,,,36,-2,2,1,-2,3,Wide Range,2,Evade Extender,1,,,Buttery Leathercraft,Zenny,2500,Monster Keenbone,5,Quematrice Crest+,3,Amstrigian Ticket,3,,
+Amstrigian a,HR,,,,36,-2,2,1,-2,3,Wide Range,2,Evade Extender,1,,,Buttery Leathercraft,,Zenny,2500,Monster Keenbone,5,Quematrice Crest+,3,Amstrigian Ticket,3,,
 Analytic E.Y.E a,HR,2,2,,66,4,2,4,0,0,Weakness Exploit,2,,,,,,,Zenny,8000,Lumenhymn Catalog,2,Hunter Symbol III,2,Guardian Rathalos Scale+,5,Guardian Rathalos Ruby,1
 Arkvulcan Helm a,HR,,,,66,2,0,-1,0,-3,Elemental Absorption,2,Convert Element,1,,,Fortifying Pelt,Arkveld's Hunger,Zenny,10000,Arkveld Scale+,5,Arkveld Armorplate,3,White Arkveld Pelt,2,Arkveld Horn+,3
 Arkvulcan Helm B,HR,3,2,1,66,2,0,-1,0,-3,Convert Element,1,,,,,Alluring Pelt,Arkveld's Hunger,Zenny,10000,Arkveld Scale+,5,Arkveld Armorplate,3,White Arkveld Pelt,2,Arkveld Horn+,3
 Arkvulcan Helm Y,HR,2,1,,68,2,0,-1,0,-3,Weakness Exploit,3,,,,,Lord's Soul,Arkveld's Hunger,Zenny,12000,Arkveld Certificate Y,1,Arkveld Scale+,6,Arkveld Horn+,3,Arkveld Gem,1
 Artian Helm a,HR,2,1,,44,1,-2,-2,2,3,Flayer,1,Earplugs,1,,,Guardian's Protection,,Zenny,4000,Gracium,5,Frenzy Crystal,1,Novacrystal,1,,
-Aviator Shades a,HR,1,1,1,66,2,2,2,2,2,Windproof,3,Tool Specialist,2,,,Zenny,8000,Gypceros Head,2,Novacrystal,1,Hunter Symbol III,2,Dreamspell Catalog,2,,
+Aviator Shades a,HR,1,1,1,66,2,2,2,2,2,Windproof,3,Tool Specialist,2,,,,,Zenny,8000,Gypceros Head,2,Novacrystal,1,Hunter Symbol III,2,Dreamspell Catalog,2
 Azure Age Hair a,HR,1,1,1,66,2,4,0,0,3,Latent Power,1,Constitution,2,Adrenaline Rush,1,Leviathan's Fury,Fortifying Pelt,Zenny,8000,Rey Day Scale+,3,Lagiacrus Hide+,3,Lagiacrus Sapphire,1,Azure Stargem,1
 Azuz Headdress a,HR,2,,,44,4,1,1,1,1,Maximum Might,2,,,,,Imparted Wisdom,,Zenny,4000,Azuz Tanned Leather,1,Charred Oilbone,2,,,,
 Balahara Helm a,HR,1,,,38,-1,2,-3,1,1,Evade Window,1,Geologist,1,,,Scaling Prowess,,Zenny,3500,Balahara Certificate S,1,Balahara Carapace,2,Balahara Skull+,1,,
@@ -51,5 +51,19 @@ Duna Wildhelm a,HR,2,1,,60,-1,4,-3,0,0,Tool Specialist,2,Earplugs,1,,,Uth Duna's
 Duna Wildhelm B,HR,3,2,,60,-1,4,-3,0,0,Tool Specialist,1,Earplugs,1,,,Uth Duna's Cover,Lord's Fury,Zenny,7000,Uth Duna Certificate S,1,Uth Duna Scale+,4,Uth Duna Cilia+,4,Uth Duna Watergem,1
 Duna Wildhelm Y,HR,3,2,,68,-1,4,-3,0,0,Peak Performance,2,Earplugs,1,,,Uth Duna's Cover,Lord's Soul,Zenny,120000,Uth Duna Certificate Y,1,Uth Duna Scale+,5,Uth Duna Cilia+,3,Wyvern Gem,2
 Eager Wudwud a,HR,,,,66,2,2,2,2,2,Mushroomancer,3,Earplugs,2,Survival Expert,2,,Fortifying Pelt,Zenny,8000,Balahara Black Pearl,2,Hunter Symbol III,3,Mizutsune Water Orb,1,Wudwud Likey-like,3
-Earring of Dedication a,HR,3,,,48,0,0,0,0,0,Wide-Range,4,,,,,,Glory's Favor,Zenny,4000,Fucium Ore,3,Gracium,3,Pinnacle Coin,3,Rathian Coin,5
-Expedition Headgear a,HR,1,,,40,1,1,1,1,1,Blight Resistance,1,Coalescence,1,,,,,Zenny,3500,,,,,,,,
+Earring of Dedication a,HR,2,,,48,0,0,0,0,0,Wide-Range,4,,,,,,Glory's Favor,Zenny,4000,Fucium Ore,3,Gracium,3,Pinnacle Coin,3,Rathian Coin,5
+Expedition Headgear a,HR,2,,,40,1,1,1,1,1,Blight Resistance,1,Coalescence,1,,,,,Zenny,3500,,,,,,,,
+Faux Felyne a,HR,,,,36,2,2,2,2,2,Palico Rally,5,,,,,,,Zenny,2500,Felyne Ticket,3,Quematrice Hide+,6,Quematrice Igniter+,4,Monster Keenbone,5
+G Arkveld Helm a,HR,1,1,,66,2,0,-1,0,-4,Partbreaker,2,Flayer,1,,,Guardian Arkveld's Vitality,Guardian's Pulse,Zenny,10000,Hunter Symbol III,1,Arkveld Scale+,6,Guardian Pelt+,5,Uth Duna Watergem,1
+G Arkveld Helm B,HR,3,1,,66,2,0,-1,0,-4,Partbreaker,1,Flayer,1,,,Guardian Arkveld's Vitality,Guardian's Protection,Zenny,10000,Hunter Symbol III,1,Arkveld Scale+,6,Guardian Pelt+,5,Uth Duna Watergem,1
+G Doshaguma Helm a,HR,3,1,,48,-3,2,-1,-2,2,Hunger Resistance,2,Heroics,1,,,Doshaguma's Might,Guardian's Pulse,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
+G Doshaguma Helm B, HR,2,2,1,48,-3,2,-1,-2,2,Heroics,1,,,,,Doshaguma's Might,Guardian's Protection,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
+G Ebony Helm a,HR,,,,48,-2,-3,-2,-2,4,Burst,2,Earplugs,1,,,Ebony Odogaron's Power,Guardian's Pulse,Zenny,5000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,6,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3
+G Ebony Helm B,HR,2,,,48,-2,-3,-2,-2,4,Burst,2,,,,,Ebony Odogaron's Power,Guardian's Protectionm,Zenny,5000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,6,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3
+G Fulgur Helm a,HR,,,,48,-1,-1,2,-3,-2,Agitator,2,Coalescence,1,,,Fulgur Anjanath's Will,Guardian's Pulse,Zenny,5000,Guardian Fulgur Certificate S,1,Guardian Fulgur Pelt+,5,Guardian Fulgur Nosebone+,4,Thunder Sack,3
+G Fulgur Helm B,HR,2,,,48,-1,-1,2,-3,-2,Agitator,2,,,,,Fulgur Anjanath's Will,Guardian's Protection,Zenny,5000,Guardian Fulgur Certificate S,1,Guardian Fulgur Pelt+,5,Guardian Fulgur Nosebone+,4,Thunder Sac,3
+G Rathalos Helm a,HR,1,1,,48,3,1,-2,1,-5,Survival Expert,2,Weakness Exploit,1,,,Rathalos's Flare,Guardian's Pulse,Zenny,5000,G Rathalos Certificate S,1,Guardian Rathalos Carapace,5,Guardian Rathalos Wing,2,Nova Crystal,1
+G Rathalos Helm B,HR,2,2,,48,3,1,-2,1,-5,Weakness Exploit,1,,,,,Rathalos's Flare,Guardian's Protection,Zenny,5000,G Rathalos Certificate S,1,Guardian Rathalos Carapace,5,Guardian Rathalos Wing,2,Novacrystal,1
+Gala Suit Top Hat a,HR,3,2,,66,1,1,1,1,4,Divine Blessing,2,Item Prolonger,3,,,,Carving Master,Zenny,8000,Gypceros Head,1,Novacrystal,1,Hunter Symbol III,1,Gala Suit Ticket,1
+Gelidron Mask a,HR,3,1,1,66,4,2,-4,-2,0,Speed Eating,2,Hunger Resistance,1,Free Meal,1,,Hunter Gatherer,Zenny,8000,Monster Keenbone,3,Rubbery Hide+,5,Hunter Symbol III,1,Dreamspell Catalogue,1
+Gogmazios Helm a,HR,3,1,,68,-4,3,0,3,5,-5,Peak Performance,2,Elemental Absorption,2,,,Gogmapocalypse,,Zenny,12000,Gogmazios Certificate S,1,Gogmazios Rampart,7,Gogmazios Fortalice,3,Wartorn Dragongem,1
