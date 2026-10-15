@@ -57,7 +57,7 @@ Faux Felyne a,HR,,,,36,2,2,2,2,2,Palico Rally,5,,,,,,,Zenny,2500,Felyne Ticket,3
 G Arkveld Helm a,HR,1,1,,66,2,0,-1,0,-4,Partbreaker,2,Flayer,1,,,Guardian Arkveld's Vitality,Guardian's Pulse,Zenny,10000,Hunter Symbol III,1,Arkveld Scale+,6,Guardian Pelt+,5,Uth Duna Watergem,1
 G Arkveld Helm B,HR,3,1,,66,2,0,-1,0,-4,Partbreaker,1,Flayer,1,,,Guardian Arkveld's Vitality,Guardian's Protection,Zenny,10000,Hunter Symbol III,1,Arkveld Scale+,6,Guardian Pelt+,5,Uth Duna Watergem,1
 G Doshaguma Helm a,HR,3,1,,48,-3,2,-1,-2,2,Hunger Resistance,2,Heroics,1,,,Doshaguma's Might,Guardian's Pulse,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
-G Doshaguma Helm B, HR,2,2,1,48,-3,2,-1,-2,2,Heroics,1,,,,,Doshaguma's Might,Guardian's Protection,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
+G Doshaguma Helm B,HR,2,2,1,48,-3,2,-1,-2,2,Heroics,1,,,,,Doshaguma's Might,Guardian's Protection,Zenny,5000,G Doshaguma Certificate S,2,Guardian Doshaguma Claw+,2,Guardian Doshaguma Fang+,3,Guardian Blood+,2
 G Ebony Helm a,HR,,,,48,-2,-3,-2,-2,4,Burst,2,Earplugs,1,,,Ebony Odogaron's Power,Guardian's Pulse,Zenny,5000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,6,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3
 G Ebony Helm B,HR,2,,,48,-2,-3,-2,-2,4,Burst,2,,,,,Ebony Odogaron's Power,Guardian's Protectionm,Zenny,5000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,6,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3
 G Fulgur Helm a,HR,,,,48,-1,-1,2,-3,-2,Agitator,2,Coalescence,1,,,Fulgur Anjanath's Will,Guardian's Pulse,Zenny,5000,Guardian Fulgur Certificate S,1,Guardian Fulgur Pelt+,5,Guardian Fulgur Nosebone+,4,Thunder Sack,3
@@ -66,5 +66,14 @@ G Rathalos Helm a,HR,1,1,,48,3,1,-2,1,-5,Survival Expert,2,Weakness Exploit,1,,,
 G Rathalos Helm B,HR,2,2,,48,3,1,-2,1,-5,Weakness Exploit,1,,,,,Rathalos's Flare,Guardian's Protection,Zenny,5000,G Rathalos Certificate S,1,Guardian Rathalos Carapace,5,Guardian Rathalos Wing,2,Novacrystal,1
 Gala Suit Top Hat a,HR,3,2,,66,1,1,1,1,4,Divine Blessing,2,Item Prolonger,3,,,,Carving Master,Zenny,8000,Gypceros Head,1,Novacrystal,1,Hunter Symbol III,1,Gala Suit Ticket,1
 Gelidron Mask a,HR,3,1,1,66,4,2,-4,-2,0,Speed Eating,2,Hunger Resistance,1,Free Meal,1,,Hunter Gatherer,Zenny,8000,Monster Keenbone,3,Rubbery Hide+,5,Hunter Symbol III,1,Dreamspell Catalogue,1
-Gogmazios Helm a,HR,3,1,,68,-4,3,0,3,5,-5,Peak Performance,2,Elemental Absorption,2,,,Gogmapocalypse,,Zenny,12000,Gogmazios Certificate S,1,Gogmazios Rampart,7,Gogmazios Fortalice,3,Wartorn Dragongem,1
-Gogmazios Helm B,HR,3,1,,68,-4,3,0,3,5,-5,Peak Performance,2,Elemental Absorption,2,,,Gogmapocalypse,,Zenny,12000,Gogmazios Certificate S,1,Gogmazios Rampart,7,Gogmazios Fortalice,3,Wartorn Dragongem,1
+Gogmazios Helm a,HR,3,1,,68,-4,3,0,3,-5,Peak Performance,2,Elemental Absorption,2,,,Gogmapocalypse,,Zenny,12000,Gogmazios Certificate S,1,Gogmazios Rampart,7,Gogmazios Fortalice,3,Wartorn Dragongem,1
+Gogmazios Helm B,HR,3,1,,68,-4,3,0,3,-5,Peak Performance,2,Elemental Absorption,2,,,Gogmapocalypse,,Zenny,12000,Gogmazios Certificate S,1,Gogmazios Rampart,7,Gogmazios Fortalice,3,Wartorn Dragongem,1
+Gore Helm a,HR,2,,,60,-2,3,-1,2,-1,Evade Window,2,Coalescence,1,,,Gore Magala's Tyranny,Scaling Prowess,Zenny,7000,Gore Magala Certificate S,2,Gore Magala Feeler+,2,Gore Magala Wing+,4,Wyvern Gem,1
+Gore Helm B,HR,3,1,,60,-2,3,-1,2,-1,Evade Window,1,Coalescence,1,,,Gore Magala's Tyranny,Scale Layering,Zenny,7000,Gore Magala Certificate S,2,Gore Magala Feeler+,2,Gore Magala Wing+,4,Wyvern Gem,1
+Gourmand's Earring a,HR,1,,,36,0,0,0,0,0,Speed Eating,2,Free Meal,2,,,,Glory's Favor,Zenny,2500,Carbalite Ore,4,Firestone,2,Pinnacle Coin,3,Chata Coin,5
+Gravios Helm a,HR,2,1,,52,4,-3,1,0,-2,Peak Performance,1,Tremor Resistance,1,,,Gravios' Protection,Scaling Prowess,Zenny,5000,Gravios Carapace,5,Gravios Pleura+,3,Monster Keenbone,3,,
+Gravios Helm B,HR,2,2,,52,4,-3,1,0,-2,Peak Performance,1,,,,,Gravios' Protection,Scale Layering,Zenny,5000,Gravios Carapace,5,Gravios Pleura+,3,Monster Keenbone,3,,
+Guild Ace Earrings a,HR,3,,,60,2,2,2,2,2,Peak Performance,1,Constitution,1,Foray,1,,,Zenny,8000,Hunter Symbol III,1,Fucium Ore,2,Guardian Pelt+,3,,
+Guild Cross Circlet a,HR,1,,,36,0,0,0,0,0,Flinch Free,1,Bind Resistance,3,Earplugs,1,,Glory's Favor,Zenny,2500,Nerscylla Carapace,2,Pinnacle Coin,1,Chata Coin,3,,
+Gypceros Helm a,HR,1,,,36,-4,3,4,-1,1,Stamina Surge,1,Blindsider,1,,,,Flexible Lethercraft,Zenny,3000,Gypceros Certificate S,1,Gypceros Wing,2,Gypceros Head,1,,
+Gypceros Helm B,HR,1,1,,36,-4,3,4,-1,1,Stamina Surge,1,,,,,,Buttery Leathercraft,Zenny,3000,Gypceros Certificate S,1,Gypceros Wing,2,Gypceros Head,1,,
